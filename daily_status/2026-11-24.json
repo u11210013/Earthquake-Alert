@@ -1,0 +1,12 @@
+{
+  "alert_count": 1,
+  "alerts": [
+    {
+      "detection_id": "YHNB_20261124T070451090334Z",
+      "sha256": "de781b757f8454aa698091f1c97440bece814c4112d229ab938f0f2b65af8d9b"
+    }
+  ],
+  "date": "2026-11-24",
+  "schema_version": 1,
+  "status": "SUCCESS"
+}
