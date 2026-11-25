@@ -1,6 +1,10 @@
 {
-  "alert_count": 6,
+  "alert_count": 7,
   "alerts": [
+    {
+      "detection_id": "KMNB_20261125T085040203023Z",
+      "sha256": "58bb4d0c9cd3c5b1df759f1fbedfc0d381a176c6ea12073122dd5ce4700fd148"
+    },
     {
       "detection_id": "NACB_20261125T084935131938Z",
       "sha256": "053e592bb3c140ffd62739d8397ea7ac27a7a9c467a3ab05916ace77e1a8e52b"
