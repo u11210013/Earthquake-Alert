@@ -1,5 +1,5 @@
 {
-  "alert_count": 5,
+  "alert_count": 6,
   "alerts": [
     {
       "detection_id": "NACB_20261125T084935131938Z",
@@ -16,6 +16,10 @@
     {
       "detection_id": "TWGB_20261125T051858369099Z",
       "sha256": "4018276c683a210f77e53995591aab0684a6231c3ecc490103d1251086499137"
+    },
+    {
+      "detection_id": "TWGB_20261125T084907094125Z",
+      "sha256": "4d08caa39c405f8b987cf13147fb4016b72f5077478b2fb0489d3979bccddfd8"
     },
     {
       "detection_id": "YULB_20261125T084933144358Z",
