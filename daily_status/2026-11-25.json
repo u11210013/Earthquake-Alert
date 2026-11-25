@@ -1,6 +1,10 @@
 {
-  "alert_count": 2,
+  "alert_count": 3,
   "alerts": [
+    {
+      "detection_id": "TPUB_20261125T084927126791Z",
+      "sha256": "23ffa3f46fde71918182f29f73bfb4c0e8ac06d85060fffbd07480e20092639f"
+    },
     {
       "detection_id": "TWGB_20261125T051858369099Z",
       "sha256": "4018276c683a210f77e53995591aab0684a6231c3ecc490103d1251086499137"
