@@ -1,0 +1,12 @@
+{
+  "alert_count": 1,
+  "alerts": [
+    {
+      "detection_id": "TWGB_20261125T051858369099Z",
+      "sha256": "4018276c683a210f77e53995591aab0684a6231c3ecc490103d1251086499137"
+    }
+  ],
+  "date": "2026-11-25",
+  "schema_version": 1,
+  "status": "SUCCESS"
+}
