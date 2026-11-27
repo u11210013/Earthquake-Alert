@@ -1,52 +1,20 @@
 {
-  "alert_count": 11,
-  "alerts": [
-    {
-      "detection_id": "KMNB_20261125T085040203023Z",
-      "sha256": "58bb4d0c9cd3c5b1df759f1fbedfc0d381a176c6ea12073122dd5ce4700fd148"
-    },
-    {
-      "detection_id": "NACB_20261125T084935131938Z",
-      "sha256": "053e592bb3c140ffd62739d8397ea7ac27a7a9c467a3ab05916ace77e1a8e52b"
-    },
-    {
-      "detection_id": "NACB_20261125T102213991988Z",
-      "sha256": "579750001f7ad90e207e0242c11283b60f2705b9ce780b15908e66ccdb6863fe"
-    },
-    {
-      "detection_id": "SSLB_20261125T084927113239Z",
-      "sha256": "0721e857521710218a4f1ebea952e715f597af542c731f32d42e2c52034e76a9"
-    },
-    {
-      "detection_id": "SSLB_20261125T102246026491Z",
-      "sha256": "65cf9a13f955921c2c50801288a71761f2fba39c25d35c918f5b282b53761324"
-    },
-    {
-      "detection_id": "TPUB_20261125T084927126791Z",
-      "sha256": "23ffa3f46fde71918182f29f73bfb4c0e8ac06d85060fffbd07480e20092639f"
-    },
-    {
-      "detection_id": "TWGB_20261125T051858369099Z",
-      "sha256": "4018276c683a210f77e53995591aab0684a6231c3ecc490103d1251086499137"
-    },
-    {
-      "detection_id": "TWGB_20261125T084907094125Z",
-      "sha256": "4d08caa39c405f8b987cf13147fb4016b72f5077478b2fb0489d3979bccddfd8"
-    },
-    {
-      "detection_id": "TWGB_20261125T102227028828Z",
-      "sha256": "120e11a8fccef0055e9ff0752ca7be3bfa3bd24be45c1275d7d57849792da0ca"
-    },
-    {
-      "detection_id": "YHNB_20261125T084946166669Z",
-      "sha256": "6dfbbc78c0644317001326aa9d43fe40810d79ceea3c819c2de84f432cd69384"
-    },
-    {
-      "detection_id": "YULB_20261125T084933144358Z",
-      "sha256": "e63b8762e8d849bdec2a17db10adccd257bfc4ad93ac5f40a060ab376f75e721"
-    }
-  ],
   "date": "2026-11-25",
-  "schema_version": 1,
-  "status": "SUCCESS"
+  "detection_count": 11,
+  "prediction_counts": {
+    "Earthquake": 11
+  },
+  "schema_version": 2,
+  "station_count": 7,
+  "station_counts": {
+    "KMNB": 1,
+    "NACB": 2,
+    "SSLB": 2,
+    "TPUB": 1,
+    "TWGB": 3,
+    "YHNB": 1,
+    "YULB": 1
+  },
+  "status": "SUCCESS",
+  "updated_at": "2026-11-28T04:00:18+08:00"
 }
